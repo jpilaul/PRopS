@@ -318,13 +318,19 @@ All parameters are described in their [documentation](https://huggingface.co/tra
 
 ## How do I cite?
 ```
-@misc{pilault2023conditional,
-      title={On Conditional and Compositional Language Model Differentiable Prompting}, 
-      author={Jonathan Pilault and Can Liu and Mohit Bansal and Markus Dreyer},
-      year={2023},
-      eprint={2307.01446},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ijcai2023p0460,
+  title     = {On Conditional and Compositional Language Model Differentiable Prompting},
+  author    = {Pilault, Jonathan and Liu, Can and Bansal, Mohit and Dreyer, Markus},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on
+               Artificial Intelligence, {IJCAI-23}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Edith Elkind},
+  pages     = {4136--4144},
+  year      = {2023},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2023/460},
+  url       = {https://doi.org/10.24963/ijcai.2023/460},
 }
 ```
 
